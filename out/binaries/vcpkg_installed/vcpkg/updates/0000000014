@@ -1,9 +1,0 @@
-Package: libogg
-Version: 1.3.5
-Port-Version: 1
-Depends: vcpkg-cmake, vcpkg-cmake-config
-Architecture: x64-windows
-Multi-Arch: same
-Abi: fd6b966f08c324a9f934b2c20f6fddb92576483eca2c1387357fb3edbaedf68a
-Description: Ogg is a multimedia container format, and the native file and stream format for the Xiph.org multimedia codecs.
-Status: install ok half-installed
