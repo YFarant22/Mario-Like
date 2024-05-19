@@ -1,0 +1,3 @@
+C:/Users/Yann/Desktop/Ynov/C++/2023/Mario Like/out/binaries/CMakeFiles/MarioLike.dir
+C:/Users/Yann/Desktop/Ynov/C++/2023/Mario Like/out/binaries/CMakeFiles/ALL_BUILD.dir
+C:/Users/Yann/Desktop/Ynov/C++/2023/Mario Like/out/binaries/CMakeFiles/ZERO_CHECK.dir

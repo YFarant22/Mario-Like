@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Game\EventManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Game\GameManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Game\GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Game\Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Game\Platform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Game\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Game\SceneManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Game\WindowManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Headers\EventManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Headers\GameManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Headers\GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Headers\Map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Headers\Platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Headers\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Headers\SceneManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\src\Headers\WindowManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Yann\Desktop\Ynov\C++\2023\Mario Like\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{ACD5151E-63C2-3D07-B70C-279F3F334A54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F994B4B3-9908-3FC4-ACE1-66EACF7EAC8D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
